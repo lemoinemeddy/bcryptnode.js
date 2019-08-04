@@ -18,6 +18,6 @@ cb(res)
 let username = "meddy"
 let password = "Hellodude"
 
-connect(password, username, hash_bdd, (reponse) => {
+connect(password, username, (reponse) => {
   console.log(reponse)
 })

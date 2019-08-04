@@ -1,3 +1,3 @@
 # bcryptnode.js
 
-requirements : npm i bcrypt
+requirement : npm i bcrypt
